@@ -38,6 +38,9 @@ echo "Installing Postgres, a good open source relational database ..."
 echo "Installing Redis, a good key-value database ..."
   successfully brew install redis
 
+echo "Installing MySQL, a good open source relational database ..."
+  successfully brew install mysql
+
 echo "Installing ack, for searching the contents of files ..."
   successfully brew install ack
 
