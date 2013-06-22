@@ -3,6 +3,13 @@ Laptop
 
 Laptop is a script to set up a Mac OS X laptop for Rails development.
 
+General Purpose Software
+------------
+* Google Chrome
+* Alfredapp
+* SublimeText
+
+
 Requirements
 ------------
 
