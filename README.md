@@ -8,6 +8,7 @@ General Purpose Software
 * Google Chrome
 * Alfredapp
 * SublimeText
+* Dropbox
 
 
 Requirements
